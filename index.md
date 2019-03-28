@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Continuum
 
-You can use the [editor on GitHub](https://github.com/dhruvnagarajan/continuum/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Effective since September 28, 2018
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page describes terms and policies regarding the collection and use of personal data when you use the **Continuum Android Application** (hereinafter referred to as the "App").
 
-### Markdown
+## Terms
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Permission to download files from share server
 
-```markdown
-Syntax highlighted code block
+By using the App, you are not violating any Privacy Policy or Terms of Service that may be imposed by the use of the server which you configure with the sync feature.
 
-# Header 1
-## Header 2
-### Header 3
+### Reverse engineering and redistribution
 
-- Bulleted
-- List
+You agree to NOT gain elevated rights such as 'root access' to your device while the App is installed on your device.
 
-1. Numbered
-2. List
+You agree to NOT reverse engineer, or tamper with, or redistribute the App in any manner.
 
-**Bold** and _Italic_ and `Code` text
+## Privacy Policy
 
-[Link](url) and ![Image](src)
-```
+By using the App, you agree to the collection and use of information in accordance with this policy.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Types of Data Collected
 
-### Jekyll Themes
+The App collects several different types of information for various purposes to provide and improve the App.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dhruvnagarajan/continuum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. **Login credentials:** The App collects your Login credentials to your personal share on your local network.
+This data will NOT be collected without your notice. You will be required to provide your credentials voluntarily, if you choose to use the App.
+This information is essential to provide you with the file sync feature of the App, and is never stored outside of your device.
+Files that the App downloads through the sync feature are stored on your device for your use, however you wish that may be, as long as it is NOT in violation of any Terms of Use or Privacy Policy of those files. The App never uses those files in any other manner, and neither do they leave your device as a result of using the App.
 
-### Support or Contact
+2. **Advertising ID:** Advertising ID is required to provide you with <i>targeted</i> ads. The App uses Google's AdMob service for this purpose.
+Visit the [HOW GOOGLE USES INFORMATION FROM SITES OR APPS THAT USE OUR SERVICES](https://policies.google.com/technologies/partner-sites) page to know more about what kind of information AdMob service uses.
+To opt-out of personalized advertising, visit [Google's Ad personalization](https://www.google.com/settings/u/0/ads/authenticated).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3. **Usage data:** Usage data is collected using **Firebase Crashlytics,** an analytics service provided by Google Inc. Information collected may include:
+    1. Type of mobile device you use
+    2. Your mobile operating system version
+    3. Time and date of your use of the App
+    4. Time spent on different screens on the App
+    5. Country from where the App is used
+    6. Other diagnostic data
+
+## Updates to Terms, and Privacy Policy
+
+Any future updates to Terms, and Privacy Policy will be delivered through this page, and the App itself with App updates.
+
+If you do NOT agree to any of the above mentioned usage of the data collected, or, Terms of usage, please do NOT use the App.
