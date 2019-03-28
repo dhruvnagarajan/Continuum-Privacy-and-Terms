@@ -6,14 +6,9 @@ This page describes terms and policies regarding the collection and use of perso
 
 ## Terms
 
-### Permission to download files from share server
+**1. Permission to download files from share server:** By using the App, you are not violating any Privacy Policy or Terms of Service that may be imposed by the use of the server which you configure with the sync feature.
 
-By using the App, you are not violating any Privacy Policy or Terms of Service that may be imposed by the use of the server which you configure with the sync feature.
-
-### Reverse engineering and redistribution
-
-You agree to NOT gain elevated rights such as 'root access' to your device while the App is installed on your device.
-
+**2. Reverse engineering and redistribution:** You agree to NOT gain elevated rights such as 'root access' to your device while the App is installed on your device.
 You agree to NOT reverse engineer, or tamper with, or redistribute the App in any manner.
 
 ## Privacy Policy
